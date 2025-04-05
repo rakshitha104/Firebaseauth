@@ -37,5 +37,5 @@ This can be easily integrated into any **website** or **e-commerce platform** th
 1. **Clone this repo**
 
 ```bash
-git clone https://github.com/yourusername/firebase-auth-page.git
-cd firebase-auth-page
+git clone https://github.com/rakshitha104/Firebaseauth.git
+cd Firebaseauth.git
